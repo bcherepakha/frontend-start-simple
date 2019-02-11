@@ -69,7 +69,7 @@
 
     "comment-no-empty": true,
 
-    "indentation": 4,
+    "indentation": 2,
     "max-empty-lines": 1,
     "max-line-length": 80,
     "no-extra-semicolons": true,
